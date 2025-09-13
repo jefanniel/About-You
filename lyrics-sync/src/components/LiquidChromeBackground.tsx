@@ -1,4 +1,4 @@
-// src/components/LiquidChromeBackground.tsx
+// wtf tiktok trends
 import { useEffect } from 'react';
 import { createRoot } from 'react-dom/client';
 import LiquidChrome from './UI/LiquidChrome';
